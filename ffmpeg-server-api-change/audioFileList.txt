@@ -1,0 +1,8 @@
+./audio/OmAtrieflimren.aac
+./audio/10-seconds-of-silence.aac
+./audio/VurderingBlodfortyndendeMedicin.aac
+./audio/10-seconds-of-silence.aac
+./audio/Xarelto1d20mg.aac
+./audio/10-seconds-of-silence.aac
+./audio/10-seconds-of-silence.aac
+./audio/HvadKanJegSelvGoere.aac

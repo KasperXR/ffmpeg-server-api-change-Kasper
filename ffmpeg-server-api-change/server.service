@@ -1,0 +1,13 @@
+[Unit]
+Description="Starts the webserver and restarts it on failure"
+After=network.target
+Wants=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/server
+Restart=on-failure
+RestartSec=2s
+
+[Install]
+WantedBy=multi-user.target
